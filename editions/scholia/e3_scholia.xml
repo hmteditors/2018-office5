@@ -4,7 +4,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <author>Andrew Tao</author>
+                <author>Manon Junggeburt</author>
+                <author>Yael Kochin</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -16,17 +18,83 @@
     </teiHeader>
     <text>
         <group n="10">
-            <text n="msA">
+            <text n="e3">
                 <body>
-                    <div n="PAGE_1" type="scholion">
+                    <div n="128v_1" type="scholion">
                         <div n="lemma">
-                            <p></p>
+                            <p>α</p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.LINE_REFERENCE</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.198</p>
                         </div>
                         <div n="comment">
-                            <p></p>
+                            <p>τὴν εὖ ὀρυχθεῖσαν ὅ ἐστι βαθεῖαν- ἢ ἀντιδιαστέλλει πρὸς ἐκ τῶν ὄμβρων γενομένας ῥωγάδας- ⁑</p>
+                        </div>
+                    </div>
+                    <div n="128v_2" type="scholion">
+                        <div n="lemma">
+                            <p>β</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.199</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὡς ἐν σκότῳ οὐ καθαρῶς ἐφαίνετο- ἐκινηεσε δὲ ἡμῶν τὴν διάνοιαν τῳ ἐνἄργει- τὸ μὲν περὶ τάφρον ἅπαν χορίων φήσας πλῆρες εἶναι νεκρῶν- ὀλιγονδὲ τὸν καθαρὸν τόπον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="128v_3" type="scholion">
+                        <div n="lemma">
+                            <p>γ</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.204</p>
+                        </div>
+                        <div n="comment">
+                            <p>ἐξ αὐτοῦ τοῦ πράγματος ἄρχεται- οὐκ ἔδει γᾶρ προοιμίων ἀλλ᾽ ὀξυβουλίας ἐν τῷ τοιούτῳ καιρῷ- ὑποθετικῳ δὲ ἄρχεται οὐ προστακτικῶς- εὖ δὲ τὸ μὴ ἕνα έκλέξασθαι- ἐλύπει γὰρ αὐτον ὡς καταφρονῶν τῆς αὐτοῦ <choice><abbr>σρίας</abbr><expan>σωτηρίας</expan></choice> καὶ τοὺς λοιποὺς ηἴσχυνε- φιλοτιμίαν οὖν τοῖς ἀρίστοις ἐις ἀλλήλους ἐμβαλλὼν. τοὺς ἀτόλμους οὐκ ἤλεγξεν. ἀλλ᾽ ἡσυχίαν αὐτοῖς ἀνεπίφθονον δέδωκεν- εὖ δὲ καὶ αὐθαίρετον- οὐ γὰρ ἐμοί <choice><abbr>φη</abbr><expan>φησί</expan></choice> <q>πεπίθοιθ᾽</q> ἀλλ᾽ <q>εᾧ αὐτοῦ θυμῷ καὶ τολμήεντι</q>- ὅ ἐστι περὶεκτικὸν τῆς προκειμένης πραξεῶς ⁑</p>
+                        </div>
+                    </div>
+                    <div n="128v_4" type="scholion">
+                        <div n="lemma">
+                            <p>δ</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.206</p>
+                        </div>
+                        <div n="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    <div n="128v_5" type="scholion">
+                        <div n="lemma">§
+                            <p>ε</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.206</p>
+                        </div>
+                        <div n="comment">
+                            <p> </p>
+                        </div>
+                    </div>
+                    <div n="128v_6" type="scholion">
+                        <div n="lemma">
+                            <p>ϝ</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.212</p>
+                        </div>
+                        <div n="comment">
+                            <p>πανταχόθεν προτρέπεται τῷ ευχερεῖ- τῷ ἀκινδύνῷ. τῷ εὐκλεεῖ</p>
+                        </div>
+                    </div>
+                    <div n="128v_7" type="scholion">
+                        <div n="lemma">
+                            <p>ζ</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.215</p>
+                        </div>
+                        <div n="comment">
+                            <p>μέγας οὖν ἔσται ἀριστεῖα παρὰ τῶν ἰδίων λαμβάνων- καὶ τὸ </p>
                         </div>
                     </div>
                 </body>
