@@ -61,7 +61,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.206-10.213</p>
                         </div>
                         <div n="comment">
-                            <p>ὑποστίζων εἰς τὸ <q>ἐλθεῖν</q>. τελείου ὡς εἰς τὸ <q><rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιούς</rs></q>- καὶ τελειῶν εἰς τὸ <q>ἐλθεῖν</q>. ἀπόδος εἰς τὸ <q><choice><abbr>ἀνους</abbr><expan>ἀνθρώπους</expan></choice></q>⁑</p>
+                            <p>ὑποστίζων εἰς τὸ <q>ἐλθεῖν</q>. τελείου ὡς εἰς τὸ <q><rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιούς</rs></q>- καὶ τελειῶν εἰς τὸ <q>ἐλθεῖν</q>, ἀπόδος εἰς τὸ <q><choice><abbr>ἀνους</abbr><expan>ἀνθρώπους</expan></choice></q>⁑</p>
                         </div>
                     </div>
                     <div n="128v_5" type="scholion">
@@ -88,7 +88,7 @@
                     </div>
                     <div n="128v_7" type="scholion">
                         <div n="lemma">
-                            <p><num val="7">ζ</num></p>
+                            <p><num val="7"><p>ζ</p></num></p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.215</p>
